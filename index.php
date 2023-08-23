@@ -49,15 +49,7 @@
             box-shadow: 0 0 0 5px #3b83f65f;
             color: #fff;
         }
-
-        .kelahiran{
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin-top: 200px;
-            margin-bottom: 200px;
-
-        }
+        
     </style>
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
@@ -99,15 +91,7 @@
             </div>
         </div>
     </section>
-
-    <section class="kelahiran-section" id="kelahiran">
-        <div data-aos="fade-up" data-aos-duration="1000">
-            <div class="container">
-                <h1 class="kelahiran kelahiran-title fw-bold">Asli Kebumen sejak tahun 2002</h2>
-            </div>
-        </div>
-    </section>
-
+    
     <section class="hobby-section" id="hobby">
         <div data-aos="fade-up" data-aos-duration="1000">
             <div class="container mb-5">
